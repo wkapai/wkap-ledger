@@ -1,0 +1,12 @@
+{
+  "canonical_url": "https://wkap.ai/radar/wkap-radar-feed-2026-07-01.html",
+  "content_sha256": "4c3a4821cd59189a879ca32033d1cf6ac11033054358a575e5732d4b1e316cca",
+  "entity_id": 1,
+  "entity_type": "radar",
+  "github_commit_sha": "",
+  "github_file_url": "",
+  "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/radar-1.json",
+  "market_date": "2026-07-01",
+  "ots_proof_url": "",
+  "ots_status": "not_started"
+}
