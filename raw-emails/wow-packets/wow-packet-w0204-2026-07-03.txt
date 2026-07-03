@@ -1,0 +1,45 @@
+# Daily WoW Packet
+
+## 1. Reading Log
+
+### Reading Item 1
+source_title: Live OTS proof test for stablecoin revenue share pressure
+source_url: https://example.com/live-ots-stablecoin-revenue-share
+source_type: article
+published_time: 2026-07-03T10:00:00Z
+tickers / themes: CRCL, COIN, stablecoins, payments infrastructure
+reading_origin: agent_suggested
+agent_summary: A new reserve-yield-sharing structure could pressure assumptions around stablecoin issuer economics.
+
+---
+
+## 2. Agent Suggested 3 WoWs
+
+### Suggested WoW 1
+wow_id: WOW-2026-07-03-001
+source_refs: Reading Item 1
+ticker / theme: Stablecoin revenue architecture
+what's_worth_watching: Reserve-yield sharing may shift from selective distribution weapon to industry baseline.
+why_now: The market is debating whether stablecoin issuer margins are durable or structurally compressing.
+what_evidence_should_AI_watch_for: Track issuer disclosures, exchange renegotiations, wallet incentives, reserve-income take rates, and new stablecoin launch terms.
+
+### Suggested WoW 2
+wow_id: WOW-2026-07-03-002
+source_refs: Reading Item 1
+ticker / theme: Coinbase stablecoin economics
+what's_worth_watching: Coinbase-linked stablecoin economics may be more sensitive to partner take-rate renegotiation than headline supply growth.
+why_now: Public-market discussion is shifting from circulation to revenue rights.
+what_evidence_should_AI_watch_for: Track Coinbase filings, USDC agreement language, and management commentary on revenue share.
+
+### Suggested WoW 3
+wow_id: WOW-2026-07-03-003
+source_refs: Reading Item 1
+ticker / theme: Payment infrastructure
+what's_worth_watching: Payment platforms may compete on who captures reserve income instead of who owns the customer interface.
+why_now: Stablecoin economics are becoming an infrastructure pricing question.
+what_evidence_should_AI_watch_for: Track merchant adoption, wallet payout incentives, and reserve-yield distribution terms.
+
+## 3. User Selection / Pass
+
+selected_wow_id: WOW-2026-07-03-001
+user_note: Select reserve-yield sharing because it is concrete, monitorable, and directly tied to public-market margin assumptions.
