@@ -1,0 +1,45 @@
+# Daily WoW Packet
+
+## 1. Reading Log
+
+### Reading Item 1
+source_title: Live OTS test on robot actuator suppliers
+source_url: https://example.com/live-ots-robot-actuators
+source_type: article
+published_time: 2026-07-03T09:00:00Z
+tickers / themes: robotics, physical AI, actuator supply chain
+reading_origin: agent_suggested
+agent_summary: A cluster of supplier notes points to actuator lead times as a measurable constraint for humanoid robot scaling.
+
+---
+
+## 2. Agent Suggested 3 WoWs
+
+### Suggested WoW 1
+wow_id: WOW-2026-07-03-001
+source_refs: Reading Item 1
+ticker / theme: Physical AI actuator supply chain
+what's_worth_watching: Actuator supplier lead times may become the first public bottleneck signal for humanoid robot production.
+why_now: More robot OEM commentary is moving from demos to component availability and manufacturability.
+what_evidence_should_AI_watch_for: Track supplier backlog, named OEM purchase orders, actuator ASP commentary, and delivery lead-time disclosures.
+
+### Suggested WoW 2
+wow_id: WOW-2026-07-03-002
+source_refs: Reading Item 1
+ticker / theme: Industrial automation
+what's_worth_watching: Legacy automation suppliers may benefit if robot OEMs outsource motion-control subsystems.
+why_now: Early physical AI deployments still require proven industrial-grade reliability.
+what_evidence_should_AI_watch_for: Track design-win announcements, robotics segment revenue, and integration partner disclosures.
+
+### Suggested WoW 3
+wow_id: WOW-2026-07-03-003
+source_refs: Reading Item 1
+ticker / theme: Edge inference hardware
+what's_worth_watching: On-device inference modules may become a second-order beneficiary of physical AI deployment.
+why_now: Robot latency and power budgets make cloud-only inference less practical for many tasks.
+what_evidence_should_AI_watch_for: Track module shipments, embedded AI design wins, and robot BOM disclosures.
+
+## 3. User Selection / Pass
+
+selected_wow_id: WOW-2026-07-03-001
+user_note: Select the actuator bottleneck because it has concrete supply-chain evidence an agent can monitor daily.
