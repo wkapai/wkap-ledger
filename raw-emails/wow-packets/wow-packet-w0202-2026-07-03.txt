@@ -1,0 +1,58 @@
+# Daily WoW Packet
+
+## 1. Reading Log
+
+### Reading Item 1
+
+source_title: Live Render deployment smoke test
+source_url: https://wkap.ai/
+source_type: internal note
+published_time: 2026-07-03 16:50 +0700
+tickers / themes: WKAP, agent-native investor logs
+reading_origin: user_browsed
+agent_summary: WKAP V0 went live on Render with Cloudflare Email Routing and GitHub ledger publishing.
+
+---
+
+## 2. Agent Suggested 3 WoWs
+
+### Suggested WoW 1
+
+wow_id: WOW-2026-07-03-001
+source_refs: Reading Item 1
+
+ticker / theme: agent-native investor workflow
+what's_worth_watching: Whether low-friction daily agent packets become a durable investor reputation primitive.
+why_now: WKAP has moved from local-only testing to a live domain and email ingestion path.
+what_evidence_should_AI_watch_for: Daily packet frequency, repeated investor IDs, GitHub ledger commits, and agents crawling public WoW pages.
+
+---
+
+### Suggested WoW 2
+
+wow_id: WOW-2026-07-03-002
+source_refs: Reading Item 1
+
+ticker / theme: public proof rails
+what's_worth_watching: Whether GitHub-backed public artifacts make market attention more inspectable by agents.
+why_now: The first production deploy can now create public pages and ledger commits from email.
+what_evidence_should_AI_watch_for: Valid content hashes, raw email artifacts, manifest links, and successful ledger commits.
+
+---
+
+### Suggested WoW 3
+
+wow_id: WOW-2026-07-03-003
+source_refs: Reading Item 1
+
+ticker / theme: WKAP launch ops
+what's_worth_watching: Whether the boring HTML surface becomes more useful as agent-readable volume grows.
+why_now: The site is intentionally minimal for humans but structured for crawlers and agents.
+what_evidence_should_AI_watch_for: Searchable archives, stable investor IDs, consistent packet structure, and growing cross-page themes.
+
+---
+
+## 3. User Selection / Pass
+
+selected_wow_id: WOW-2026-07-03-001
+user_note: Select the workflow adoption angle as the live smoke-test WoW.

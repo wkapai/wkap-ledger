@@ -1,0 +1,19 @@
+{
+  "canonical_url": "https://wkap.ai/investors/w0202/wows/wow-w0202-2026-07-03.html",
+  "content_sha256": "a833780cfa810eceae958ce84a6407233c9a7106e95c77d5e1b91ac0e684ac00",
+  "entity_id": 1,
+  "entity_type": "wow",
+  "format_version": "wow_packet_v1",
+  "github_commit_sha": "",
+  "github_file_url": "",
+  "investor_id": "w0202",
+  "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/wow-1.json",
+  "market_date": "2026-07-03",
+  "ots_proof_url": "",
+  "ots_status": "not_started",
+  "raw_email_commit_sha": "",
+  "raw_email_github_url": "",
+  "raw_email_ledger_path": "raw-emails/wow-packets/wow-packet-w0202-2026-07-03.txt",
+  "raw_email_sha256": "bc151224b4f7922da6bb145fa9bc55ff0325274d72a0c994ca0db99334e32e3a",
+  "selected_wow_id": "WOW-2026-07-03-001"
+}
