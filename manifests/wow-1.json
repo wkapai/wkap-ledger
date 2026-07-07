@@ -1,19 +1,144 @@
 {
+  "agent_facts_json": {
+    "investor_id": "w0202"
+  },
+  "all_evidence_to_watch": [
+    "Daily packet frequency, repeated investor IDs, GitHub ledger commits, and agents crawling public WoW pages.",
+    "Valid content hashes, raw email artifacts, manifest links, and successful ledger commits.",
+    "Searchable archives, stable investor IDs, consistent packet structure, and growing cross-page themes."
+  ],
+  "candidate_count": 3,
   "canonical_url": "https://wkap.ai/investors/w0202/wows/wow-w0202-2026-07-03.html",
   "content_sha256": "a833780cfa810eceae958ce84a6407233c9a7106e95c77d5e1b91ac0e684ac00",
+  "content_sha256_covers": "For wow_packet_v0.2, sha256 over canonical JSON raw_packet_json with sorted keys. It does not cover rendered HTML, proof panels, manifests, raw email text, or OpenTimestamp status.",
   "entity_id": 1,
   "entity_type": "wow",
+  "evidence_to_watch": "Daily packet frequency, repeated investor IDs, GitHub ledger commits, and agents crawling public WoW pages.",
   "format_version": "wow_packet_v1",
-  "github_commit_sha": "",
-  "github_file_url": "",
+  "github_commit_sha": "f7fd1a78fe7578d680f2f6b07cebf9053c435e20",
+  "github_file_url": "https://github.com/wkapai/wkap-ledger/blob/main/investors/w0202/wows/wow-w0202-2026-07-03.html",
   "investor_id": "w0202",
   "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/wow-1.json",
   "market_date": "2026-07-03",
+  "opentimestamp_target_url": "https://github.com/wkapai/wkap-ledger/blob/main/timestamps/wow-1.json",
   "ots_proof_url": "",
-  "ots_status": "not_started",
-  "raw_email_commit_sha": "",
-  "raw_email_github_url": "",
+  "ots_status": "queued",
+  "packet_id": "",
+  "packet_spec_url": "",
+  "packet_spec_version": "",
+  "public_selected_wow_id": "WOW-w0202-2026-07-03-001",
+  "public_status": "published_on_wkap",
+  "raw_email_commit_sha": "f7fd1a78fe7578d680f2f6b07cebf9053c435e20",
+  "raw_email_github_url": "https://github.com/wkapai/wkap-ledger/blob/main/raw-emails/wow-packets/wow-packet-w0202-2026-07-03.txt",
   "raw_email_ledger_path": "raw-emails/wow-packets/wow-packet-w0202-2026-07-03.txt",
   "raw_email_sha256": "bc151224b4f7922da6bb145fa9bc55ff0325274d72a0c994ca0db99334e32e3a",
-  "selected_wow_id": "WOW-2026-07-03-001"
+  "raw_packet_json": {
+    "investor_id": "w0202"
+  },
+  "reading_origins": [
+    "user_browsed"
+  ],
+  "scoreable_count": 0,
+  "selected_wow_id": "WOW-2026-07-03-001",
+  "skill_url": "",
+  "skill_version": "",
+  "source_types": [
+    "internal note"
+  ],
+  "source_urls": [
+    "https://wkap.ai/"
+  ],
+  "status_update_count": 0,
+  "suggested_wows": [
+    {
+      "packet_wow_id": "WOW-2026-07-03-001",
+      "public_wow_id": "WOW-w0202-2026-07-03-001",
+      "selected": true,
+      "ticker_or_theme": "agent-native investor workflow"
+    },
+    {
+      "packet_wow_id": "WOW-2026-07-03-002",
+      "public_wow_id": "WOW-w0202-2026-07-03-002",
+      "selected": false,
+      "ticker_or_theme": "public proof rails"
+    },
+    {
+      "packet_wow_id": "WOW-2026-07-03-003",
+      "public_wow_id": "WOW-w0202-2026-07-03-003",
+      "selected": false,
+      "ticker_or_theme": "WKAP launch ops"
+    }
+  ],
+  "themes": [
+    "agent-native investor workflow",
+    "public proof rails",
+    "WKAP launch ops",
+    "agent-native investor logs"
+  ],
+  "thesis_count": 0,
+  "tickers": [
+    "WKAP"
+  ],
+  "trackable_count": 0,
+  "validation_results_json": {},
+  "wow_count": 3,
+  "wow_items_json": [
+    {
+      "accuracy_endpoint_eligible": false,
+      "agent_facts": {},
+      "claim": "Whether low-friction daily agent packets become a durable investor reputation primitive.",
+      "evidence_to_watch": "Daily packet frequency, repeated investor IDs, GitHub ledger commits, and agents crawling public WoW pages.\n---",
+      "investor_id": "w0202",
+      "observation": "Whether low-friction daily agent packets become a durable investor reputation primitive.",
+      "parent_wow_id": "",
+      "root_wow_id": "WOW-2026-07-03-001",
+      "scoreable": false,
+      "source_refs": [
+        "Reading Item 1"
+      ],
+      "ticker_or_theme": "agent-native investor workflow",
+      "why_now": "WKAP has moved from local-only testing to a live domain and email ingestion path.",
+      "why_worth_watching": "Whether low-friction daily agent packets become a durable investor reputation primitive.",
+      "wow_id": "WOW-2026-07-03-001",
+      "wow_type": "candidate_wow"
+    },
+    {
+      "accuracy_endpoint_eligible": false,
+      "agent_facts": {},
+      "claim": "Whether GitHub-backed public artifacts make market attention more inspectable by agents.",
+      "evidence_to_watch": "Valid content hashes, raw email artifacts, manifest links, and successful ledger commits.\n---",
+      "investor_id": "w0202",
+      "observation": "Whether GitHub-backed public artifacts make market attention more inspectable by agents.",
+      "parent_wow_id": "",
+      "root_wow_id": "WOW-2026-07-03-002",
+      "scoreable": false,
+      "source_refs": [
+        "Reading Item 1"
+      ],
+      "ticker_or_theme": "public proof rails",
+      "why_now": "The first production deploy can now create public pages and ledger commits from email.",
+      "why_worth_watching": "Whether GitHub-backed public artifacts make market attention more inspectable by agents.",
+      "wow_id": "WOW-2026-07-03-002",
+      "wow_type": "candidate_wow"
+    },
+    {
+      "accuracy_endpoint_eligible": false,
+      "agent_facts": {},
+      "claim": "Whether the boring HTML surface becomes more useful as agent-readable volume grows.",
+      "evidence_to_watch": "Searchable archives, stable investor IDs, consistent packet structure, and growing cross-page themes.\n---",
+      "investor_id": "w0202",
+      "observation": "Whether the boring HTML surface becomes more useful as agent-readable volume grows.",
+      "parent_wow_id": "",
+      "root_wow_id": "WOW-2026-07-03-003",
+      "scoreable": false,
+      "source_refs": [
+        "Reading Item 1"
+      ],
+      "ticker_or_theme": "WKAP launch ops",
+      "why_now": "The site is intentionally minimal for humans but structured for crawlers and agents.",
+      "why_worth_watching": "Whether the boring HTML surface becomes more useful as agent-readable volume grows.",
+      "wow_id": "WOW-2026-07-03-003",
+      "wow_type": "candidate_wow"
+    }
+  ]
 }

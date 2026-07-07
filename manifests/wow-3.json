@@ -1,8 +1,19 @@
 {
+  "agent_facts_json": {
+    "investor_id": "w0204"
+  },
+  "all_evidence_to_watch": [
+    "Track issuer disclosures, exchange renegotiations, wallet incentives, reserve-income take rates, and new stablecoin launch terms.",
+    "Track Coinbase filings, USDC agreement language, and management commentary on revenue share.",
+    "Track merchant adoption, wallet payout incentives, and reserve-yield distribution terms."
+  ],
+  "candidate_count": 3,
   "canonical_url": "https://wkap.ai/investors/w0204/wows/wow-w0204-2026-07-03.html",
   "content_sha256": "d1022fd53ce5b12ebe5a7a0a3b9ed42faf3f315246304149d2717443729b41bf",
+  "content_sha256_covers": "For wow_packet_v0.2, sha256 over canonical JSON raw_packet_json with sorted keys. It does not cover rendered HTML, proof panels, manifests, raw email text, or OpenTimestamp status.",
   "entity_id": 3,
   "entity_type": "wow",
+  "evidence_to_watch": "Track issuer disclosures, exchange renegotiations, wallet incentives, reserve-income take rates, and new stablecoin launch terms.",
   "format_version": "wow_packet_v1",
   "github_commit_sha": "57a5d25ee2fce8094607b73fee2ba703739fe2ee",
   "github_file_url": "https://github.com/wkapai/wkap-ledger/blob/main/investors/w0204/wows/wow-w0204-2026-07-03.html",
@@ -12,9 +23,124 @@
   "opentimestamp_target_url": "https://github.com/wkapai/wkap-ledger/blob/main/timestamps/wow-3.json",
   "ots_proof_url": "https://github.com/wkapai/wkap-ledger/blob/main/timestamps/wow-3.json.ots",
   "ots_status": "stamped",
+  "packet_id": "",
+  "packet_spec_url": "",
+  "packet_spec_version": "",
+  "public_selected_wow_id": "WOW-w0204-2026-07-03-001",
+  "public_status": "published_on_wkap",
   "raw_email_commit_sha": "57a5d25ee2fce8094607b73fee2ba703739fe2ee",
   "raw_email_github_url": "https://github.com/wkapai/wkap-ledger/blob/main/raw-emails/wow-packets/wow-packet-w0204-2026-07-03.txt",
   "raw_email_ledger_path": "raw-emails/wow-packets/wow-packet-w0204-2026-07-03.txt",
   "raw_email_sha256": "8155956a1163c68eb1746cb8242b86bd1cb9fdbb7aff6d30e32d554fbeda1dec",
-  "selected_wow_id": "WOW-2026-07-03-001"
+  "raw_packet_json": {
+    "investor_id": "w0204"
+  },
+  "reading_origins": [
+    "agent_suggested"
+  ],
+  "scoreable_count": 0,
+  "selected_wow_id": "WOW-2026-07-03-001",
+  "skill_url": "",
+  "skill_version": "",
+  "source_types": [
+    "article"
+  ],
+  "source_urls": [
+    "https://example.com/live-ots-stablecoin-revenue-share"
+  ],
+  "status_update_count": 0,
+  "suggested_wows": [
+    {
+      "packet_wow_id": "WOW-2026-07-03-001",
+      "public_wow_id": "WOW-w0204-2026-07-03-001",
+      "selected": true,
+      "ticker_or_theme": "Stablecoin revenue architecture"
+    },
+    {
+      "packet_wow_id": "WOW-2026-07-03-002",
+      "public_wow_id": "WOW-w0204-2026-07-03-002",
+      "selected": false,
+      "ticker_or_theme": "Coinbase stablecoin economics"
+    },
+    {
+      "packet_wow_id": "WOW-2026-07-03-003",
+      "public_wow_id": "WOW-w0204-2026-07-03-003",
+      "selected": false,
+      "ticker_or_theme": "Payment infrastructure"
+    }
+  ],
+  "themes": [
+    "Stablecoin revenue architecture",
+    "Coinbase stablecoin economics",
+    "Payment infrastructure",
+    "stablecoins",
+    "payments infrastructure"
+  ],
+  "thesis_count": 0,
+  "tickers": [
+    "CRCL",
+    "COIN"
+  ],
+  "trackable_count": 0,
+  "validation_results_json": {},
+  "wow_count": 3,
+  "wow_items_json": [
+    {
+      "accuracy_endpoint_eligible": false,
+      "agent_facts": {},
+      "claim": "Reserve-yield sharing may shift from selective distribution weapon to industry baseline.",
+      "evidence_to_watch": "Track issuer disclosures, exchange renegotiations, wallet incentives, reserve-income take rates, and new stablecoin launch terms.",
+      "investor_id": "w0204",
+      "observation": "Reserve-yield sharing may shift from selective distribution weapon to industry baseline.",
+      "parent_wow_id": "",
+      "root_wow_id": "WOW-2026-07-03-001",
+      "scoreable": false,
+      "source_refs": [
+        "Reading Item 1"
+      ],
+      "ticker_or_theme": "Stablecoin revenue architecture",
+      "why_now": "The market is debating whether stablecoin issuer margins are durable or structurally compressing.",
+      "why_worth_watching": "Reserve-yield sharing may shift from selective distribution weapon to industry baseline.",
+      "wow_id": "WOW-2026-07-03-001",
+      "wow_type": "candidate_wow"
+    },
+    {
+      "accuracy_endpoint_eligible": false,
+      "agent_facts": {},
+      "claim": "Coinbase-linked stablecoin economics may be more sensitive to partner take-rate renegotiation than headline supply growth.",
+      "evidence_to_watch": "Track Coinbase filings, USDC agreement language, and management commentary on revenue share.",
+      "investor_id": "w0204",
+      "observation": "Coinbase-linked stablecoin economics may be more sensitive to partner take-rate renegotiation than headline supply growth.",
+      "parent_wow_id": "",
+      "root_wow_id": "WOW-2026-07-03-002",
+      "scoreable": false,
+      "source_refs": [
+        "Reading Item 1"
+      ],
+      "ticker_or_theme": "Coinbase stablecoin economics",
+      "why_now": "Public-market discussion is shifting from circulation to revenue rights.",
+      "why_worth_watching": "Coinbase-linked stablecoin economics may be more sensitive to partner take-rate renegotiation than headline supply growth.",
+      "wow_id": "WOW-2026-07-03-002",
+      "wow_type": "candidate_wow"
+    },
+    {
+      "accuracy_endpoint_eligible": false,
+      "agent_facts": {},
+      "claim": "Payment platforms may compete on who captures reserve income instead of who owns the customer interface.",
+      "evidence_to_watch": "Track merchant adoption, wallet payout incentives, and reserve-yield distribution terms.",
+      "investor_id": "w0204",
+      "observation": "Payment platforms may compete on who captures reserve income instead of who owns the customer interface.",
+      "parent_wow_id": "",
+      "root_wow_id": "WOW-2026-07-03-003",
+      "scoreable": false,
+      "source_refs": [
+        "Reading Item 1"
+      ],
+      "ticker_or_theme": "Payment infrastructure",
+      "why_now": "Stablecoin economics are becoming an infrastructure pricing question.",
+      "why_worth_watching": "Payment platforms may compete on who captures reserve income instead of who owns the customer interface.",
+      "wow_id": "WOW-2026-07-03-003",
+      "wow_type": "candidate_wow"
+    }
+  ]
 }

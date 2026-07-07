@@ -1,6 +1,7 @@
 {
   "canonical_url": "https://wkap.ai/radar/wkap-radar-feed-2026-07-03.html",
   "content_sha256": "6368c616a840895ef2eae28c34273566e2975cb326be4b65f1f1845583133db0",
+  "content_sha256_covers": "sha256 over UTF-8 text: radar\\n{market_date}\\n{title}\\n{body_text}. It does not cover rendered HTML, proof panels, manifests, or OpenTimestamp status.",
   "entity_id": 2,
   "entity_type": "radar",
   "github_commit_sha": "ce2cd717d7f5361aadd795f5908ab7df7c2ec53c",
