@@ -8,7 +8,5 @@
   "github_file_url": "https://github.com/wkapai/wkap-ledger/blob/main/radar/wkap-radar-feed-2026-07-14.html",
   "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/radar-12.json",
   "market_date": "2026-07-14",
-  "opentimestamp_target_url": "https://github.com/wkapai/wkap-ledger/blob/main/timestamps/radar-12.json",
-  "ots_proof_url": "https://github.com/wkapai/wkap-ledger/blob/main/timestamps/radar-12.json.ots",
-  "ots_status": "stamped"
+  "timestamp_target_version": "wkap-opentimestamp-target-v1"
 }
