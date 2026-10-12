@@ -1,0 +1,12 @@
+{
+  "canonical_url": "https://wkap.ai/radar/wkap-radar-feed-2026-10-12.html",
+  "content_sha256": "83bb8d3a4ca1246d7a69b6771a424a3377e173a968889a9e53b82c3b2377329f",
+  "content_sha256_covers": "sha256 over UTF-8 text: radar\\n{market_date}\\n{title}\\n{body_text}. It does not cover rendered HTML, proof panels, manifests, or OpenTimestamp status.",
+  "entity_id": 76,
+  "entity_type": "radar",
+  "github_commit_sha": "ceaf9819df574a4f1af489fbf621e66357e928d8",
+  "github_file_url": "https://github.com/wkapai/wkap-ledger/blob/main/radar/wkap-radar-feed-2026-10-12.html",
+  "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/radar-76.json",
+  "market_date": "2026-10-12",
+  "timestamp_target_version": "wkap-opentimestamp-target-v1"
+}
