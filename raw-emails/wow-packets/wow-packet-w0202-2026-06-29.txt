@@ -1,0 +1,45 @@
+# Daily WoW Packet
+
+1. Reading Log
+
+Reading Item 1
+source_title: Physical AI suppliers note
+source_url: https://example.com/source
+source_type: article
+published_time: 2026-06-29T13:00:00Z
+tickers / themes: Physical AI
+reading_origin: user_browsed
+agent_summary: Supplier disclosures suggest component revenue may validate demand.
+
+---
+
+Agent Suggested 3 WoWs
+
+Suggested WoW 1
+wow_id: WOW-2026-06-29-001
+source_refs: Reading Item 1
+ticker / theme: Physical AI
+what's_worth_watching: Physical AI suppliers deserve closer review.
+why_now: Component revenue can validate the thesis.
+what_evidence_should_AI_watch_for: Check next quarterly disclosures.
+
+### Suggested WoW 2
+wow_id: WOW-2026-06-29-002
+source_refs: Reading Item 1
+ticker / theme: Robotics
+what's_worth_watching: Robotics suppliers may show order acceleration.
+why_now: Humanoid capex commentary is increasing.
+what_evidence_should_AI_watch_for: Track backlog and customer commentary.
+
+### Suggested WoW 3
+wow_id: WOW-2026-06-29-003
+source_refs: Reading Item 1
+ticker / theme: Edge AI
+what's_worth_watching: Edge AI demand may broaden.
+why_now: Device makers are discussing local inference.
+what_evidence_should_AI_watch_for: Track design wins and shipments.
+
+User Selection
+
+Selected WoW: WOW-2026-06-29-001
+reason_for_selection: Focus on the supplier evidence.
