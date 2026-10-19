@@ -1,0 +1,22 @@
+{
+  "canonical_url": "https://wkap.ai/radar/wkap-radar-feed-2026-10-19.html",
+  "challenge_invitation": "Roast our take, spot an egg, or show us your market meme. Tell us what today's market is missing.",
+  "content_sha256": "5eb81f30f752b6b8a1c889b22d2233eca869c74b6ec81abbf295b8933127d950",
+  "content_sha256_covers": "sha256 over UTF-8 text: radar\\n{market_date}\\n{title}\\n{body_text}\\n{edition_version}\\n{cover_image_sha256}\\n{cover_logo_verified}\\n{challenge_invitation}. It does not cover rendered HTML, proof panels, manifests, or OpenTimestamp status.",
+  "cover_image_media_type": "image/jpeg",
+  "cover_image_sha256": "c95bb52337e4e78a273d71912c1bb382cee1d11901f006351349e33b0f08868c",
+  "cover_image_size_bytes": 217155,
+  "cover_image_source_url": "https://pbs.twimg.com/media/HU_j2jsaMAAi_N7?format=jpg&name=medium",
+  "cover_image_url": "https://wkap.ai/radar/assets/wkap-cover-2026-10-19.jpg",
+  "cover_logo_verified": true,
+  "edition_version": 1,
+  "entity_id": 81,
+  "entity_type": "radar",
+  "github_commit_sha": "",
+  "github_file_url": "",
+  "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/radar-81.json",
+  "market_date": "2026-10-19",
+  "opentimestamp_target_url": "https://github.com/wkapai/wkap-ledger/blob/main/timestamps/radar-81.json",
+  "ots_proof_url": "",
+  "ots_status": "not_started"
+}
