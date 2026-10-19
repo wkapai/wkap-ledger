@@ -1,0 +1,102 @@
+# WKAP Daily WoW Packet
+
+```yaml
+packet:
+  packet_id: WKAP-w0202-2026-07-01
+  investor_id: w0202
+  market_date: 2026-07-01
+  created_at: 2026-07-01T21:00:00Z
+  packet_spec_version: v0.2
+  packet_spec_url: https://wkap.ai/specs/wow-packet-v0.2.md
+  skill_version: v0.2
+  skill_url: https://wkap.ai/skills/wkap-wow-skill-latest.md
+  human_view:
+    title: AI power bottleneck lifecycle update
+    summary: New utility evidence promotes yesterday's AI power bottleneck from trackable to scoreable.
+  agent_facts:
+    packet_id: WKAP-w0202-2026-07-01
+    investor_id: w0202
+    packet_spec_version: v0.2
+  reading_log:
+    - item_number: 1
+      source_title: Utility interconnection queue update
+      source_url: https://example.com/utility-queue
+      source_type: filing
+      published_time: 2026-07-01T13:00:00Z
+      tickers:
+        - NVDA
+        - NEE
+      themes:
+        - AI data centers
+        - power bottlenecks
+      reading_origin: agent_suggested
+      agent_summary: Interconnection queue disclosures made the AI power bottleneck more testable.
+  wow_items:
+    - wow_id: WOW-w0202-2026-07-01-001
+      wow_type: status_update
+      investor_id: w0202
+      target_wow_type: trackable_wow
+      target_wow_id: WOW-w0202-2026-06-29-001
+      target_root_wow_id: WOW-w0202-2026-06-29-001
+      update_type: promotion
+      previous_status: active_trackable
+      new_status: promoted_scoreable
+      update_summary: Utility queue evidence makes the prior AI power bottleneck WoW scoreable.
+      evidence_summary: A named utility backlog item can now be checked against future earnings commentary.
+      scoreable: false
+      accuracy_endpoint_eligible: false
+      lineage_node: false
+      source_refs:
+        - Reading Item 1
+      agent_facts:
+        wow_type: status_update
+        lineage_node: false
+        target_wow_type: trackable_wow
+        target_wow_id: WOW-w0202-2026-06-29-001
+        target_root_wow_id: WOW-w0202-2026-06-29-001
+        update_type: promotion
+        previous_status: active_trackable
+        new_status: promoted_scoreable
+    - wow_id: WOW-w0202-2026-07-01-002
+      wow_type: scoreable_signal
+      scoreable: true
+      accuracy_endpoint_eligible: true
+      parent_wow_id: WOW-w0202-2026-06-29-001
+      root_wow_id: WOW-w0202-2026-06-29-001
+      claim: A hyperscaler will cite power access as an AI deployment constraint by 2026-09-30.
+      invalidate_test: No hyperscaler cites power access as an AI deployment constraint by resolve_by.
+      resolve_by: 2026-09-30
+      resolution_source: hyperscaler earnings transcripts
+      signal_status: pending_scoreable
+      source_refs:
+        - Reading Item 1
+      agent_facts:
+        wow_type: scoreable_signal
+        scoreable: true
+        accuracy_endpoint_eligible: true
+    - wow_id: WOW-w0202-2026-07-01-003
+      wow_type: candidate_wow
+      scoreable: false
+      accuracy_endpoint_eligible: false
+      parent_wow_id: null
+      root_wow_id: WOW-w0202-2026-07-01-003
+      observation: Power names may become part of the AI infrastructure basket.
+      why_worth_watching: It may become trackable if future AI power sourcing evidence repeats.
+      candidate_status: active_candidate
+      source_refs:
+        - Reading Item 1
+      agent_facts:
+        wow_type: candidate_wow
+        scoreable: false
+        accuracy_endpoint_eligible: false
+  selection:
+    selected_wow_id: WOW-w0202-2026-07-01-001
+    reason_for_selection: The promotion captures the day's most important lifecycle change.
+    reason_for_pass:
+    closest_rejected_wow:
+    missing_evidence:
+  validation_notes:
+    schema_valid: true
+    missing_fields: []
+    warnings: []
+```

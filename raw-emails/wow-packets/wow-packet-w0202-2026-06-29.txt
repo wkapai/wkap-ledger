@@ -1,8 +1,8 @@
 # Daily WoW Packet
 
-1. Reading Log
+## 1. Reading Log
 
-Reading Item 1
+### Reading Item 1
 source_title: Physical AI suppliers note
 source_url: https://example.com/source
 source_type: article
@@ -13,9 +13,9 @@ agent_summary: Supplier disclosures suggest component revenue may validate deman
 
 ---
 
-Agent Suggested 3 WoWs
+## 2. Agent Suggested WoW Signals
 
-Suggested WoW 1
+### Suggested WoW 1
 wow_id: WOW-2026-06-29-001
 source_refs: Reading Item 1
 ticker / theme: Physical AI
@@ -39,7 +39,7 @@ what's_worth_watching: Edge AI demand may broaden.
 why_now: Device makers are discussing local inference.
 what_evidence_should_AI_watch_for: Track design wins and shipments.
 
-User Selection
+## 3. User Selection / Pass
 
-Selected WoW: WOW-2026-06-29-001
+selected_wow_id: WOW-2026-06-29-001
 reason_for_selection: Focus on the supplier evidence.
