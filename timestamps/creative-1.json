@@ -1,0 +1,21 @@
+{
+  "canonical_url": "https://wkap.ai/editions/wkap-edition-2026-10-19-v1.html",
+  "content_sha256": "e79a3b7b2f373f781fe420df6bb6bb981b0ced681a9d2ff5f7df8a7e915b91b6",
+  "content_sha256_covers": "canonical JSON bytes of journal_json plus the exact published cover image SHA256, format version, market date, and edition version",
+  "creator_ai": "Codex researched and wrote the analysis and generated the cover with ImageGen. A separate coordinating reviewer critiqued v6, followed by producer verification of the saved X crop and phone conformance.",
+  "creator_human": "Alex set purpose, cast and taste and directed the no-default-mascot, daily-market-panorama and separate-review correction. No final daily image approval is claimed.",
+  "edition_version": 1,
+  "entity_id": 1,
+  "entity_type": "creative",
+  "format_version": "wkap_edition_v1",
+  "github_commit_sha": "fd82dda022047427399d0b0884b61bd3a1dd46b2",
+  "github_file_url": "https://github.com/wkapai/wkap-ledger/blob/main/editions/wkap-edition-2026-10-19-v1.html",
+  "image_sha256": "c95bb52337e4e78a273d71912c1bb382cee1d11901f006351349e33b0f08868c",
+  "image_size_bytes": 217155,
+  "journal_sha256": "4f2641f988764fe3a21977894ce56d72aa6025be26385c1ea64fcb59e83befc9",
+  "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/creative-1.json",
+  "market_date": "2026-10-19",
+  "proof_scope_notice": "These hashes and OpenTimestamps evidence bind the exact published journal and cover bytes. They do not prove authorship, invention, or the exact time the creative work was made.",
+  "publisher": "WKAP / @memely",
+  "timestamp_target_version": "wkap-opentimestamp-target-v1"
+}
