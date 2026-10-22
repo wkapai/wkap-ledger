@@ -1,0 +1,21 @@
+{
+  "canonical_url": "https://wkap.ai/editions/wkap-edition-2026-10-22-v1.html",
+  "content_sha256": "313455a124aa9944eb4022da6a97da8a0c615ad5af99e2a085b843e2e413fde6",
+  "content_sha256_covers": "canonical JSON bytes of journal_json plus the exact published cover image SHA256, format version, market date, and edition version",
+  "creator_ai": "AI researched, drafted and generated satire. Zuckerberg likeness reference: Jeff Sainlar/Meta (2025), https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_(2025).jpg ; CC BY-SA4.0 https://creativecommons.org/licenses/by-sa/4.0/ . No endorsement.",
+  "creator_human": "Alex set WKAP\u2019s purpose, approved cast and creative direction; no daily human approval is claimed.",
+  "edition_version": 1,
+  "entity_id": 2,
+  "entity_type": "creative",
+  "format_version": "wkap_edition_v1",
+  "github_commit_sha": "837b544568c917e3adb9b3cd67887f6d03dbc4f3",
+  "github_file_url": "https://github.com/wkapai/wkap-ledger/blob/main/editions/wkap-edition-2026-10-22-v1.html",
+  "image_sha256": "27da3386fef8c3e1c3d75fcd03a5196d7cea881bbac86479346ae39a5ff0bd24",
+  "image_size_bytes": 161130,
+  "journal_sha256": "0b3cd587a7c4a749618a4feaba46c94318ff7d98a45596b883a2f518c283b408",
+  "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/creative-2.json",
+  "market_date": "2026-10-22",
+  "proof_scope_notice": "These hashes and OpenTimestamps evidence bind the exact published journal and cover bytes. They do not prove authorship, invention, or the exact time the creative work was made.",
+  "publisher": "WKAP / Memely Alpha (@memely).",
+  "timestamp_target_version": "wkap-opentimestamp-target-v1"
+}
