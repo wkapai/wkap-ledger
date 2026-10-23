@@ -1,0 +1,21 @@
+{
+  "canonical_url": "https://wkap.ai/editions/wkap-edition-2026-10-23-v1.html",
+  "content_sha256": "ffdef0a8e074d1b273ebc353e97f2d2653818429b7d67d7b82fb3e3ba948672a",
+  "content_sha256_covers": "canonical JSON bytes of journal_json plus the exact published cover image SHA256, format version, market date, and edition version",
+  "creator_ai": "AI researched and drafted the full analysis, generated the cover from inspected identity and source references, and composed the exact official WKAP asset. A separate authorized AI reviewer inspected local, saved-X and genuine phone evidence.",
+  "creator_human": "Alex set WKAP purpose, approved cast and creative direction; no daily human approval is claimed.",
+  "edition_version": 1,
+  "entity_id": 3,
+  "entity_type": "creative",
+  "format_version": "wkap_edition_v1",
+  "github_commit_sha": "10e36d6036e6ca3d7811797a4cfed8b98bc186c8",
+  "github_file_url": "https://github.com/wkapai/wkap-ledger/blob/main/editions/wkap-edition-2026-10-23-v1.html",
+  "image_sha256": "8bdde49893593947a431489be4b18f29449183bcbce6ccc63b47919fef2c00a4",
+  "image_size_bytes": 154810,
+  "journal_sha256": "665388a5d72918eeaff7beaf4c6508e2de42bca25422648325939390366c15cf",
+  "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/creative-3.json",
+  "market_date": "2026-10-23",
+  "proof_scope_notice": "These hashes and OpenTimestamps evidence bind the exact published journal and cover bytes. They do not prove authorship, invention, or the exact time the creative work was made.",
+  "publisher": "WKAP / Memely Alpha (@memely).",
+  "timestamp_target_version": "wkap-opentimestamp-target-v1"
+}
