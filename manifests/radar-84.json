@@ -1,0 +1,22 @@
+{
+  "canonical_url": "https://wkap.ai/radar/wkap-radar-feed-2026-11-09.html",
+  "challenge_invitation": "",
+  "content_sha256": "5aa6db6f12472fdf2c9eb8a76f4b4e5399bdccc49525e63c16f08444bd3ed0a8",
+  "content_sha256_covers": "sha256 over UTF-8 text: radar\\n{market_date}\\n{title}\\n{body_text}\\n{edition_version}\\n{cover_image_sha256}\\n{cover_logo_verified}\\n{challenge_invitation}. It does not cover rendered HTML, proof panels, manifests, or OpenTimestamp status.",
+  "cover_image_media_type": "image/jpeg",
+  "cover_image_sha256": "4e45fe620e572e2cdb034bcdc244427e1bd10c307856364d3d9b155c0ab7fe64",
+  "cover_image_size_bytes": 157199,
+  "cover_image_source_url": "https://pbs.twimg.com/media/HWrLNTnbcAAcZSa?format=jpg&name=medium",
+  "cover_image_url": "https://wkap.ai/radar/assets/wkap-cover-2026-11-09.jpg",
+  "cover_logo_verified": true,
+  "edition_version": 1,
+  "entity_id": 84,
+  "entity_type": "radar",
+  "github_commit_sha": "",
+  "github_file_url": "",
+  "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/radar-84.json",
+  "market_date": "2026-11-09",
+  "opentimestamp_target_url": "https://github.com/wkapai/wkap-ledger/blob/main/timestamps/radar-84.json",
+  "ots_proof_url": "",
+  "ots_status": "not_started"
+}
