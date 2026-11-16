@@ -12,11 +12,11 @@
   "edition_version": 1,
   "entity_id": 88,
   "entity_type": "radar",
-  "github_commit_sha": "",
-  "github_file_url": "",
+  "github_commit_sha": "8ea855ce22b2718a9265ab54b3528c79c6157fbe",
+  "github_file_url": "https://github.com/wkapai/wkap-ledger/blob/main/radar/wkap-radar-feed-2026-11-16.html",
   "manifest_url": "https://github.com/wkapai/wkap-ledger/blob/main/manifests/radar-88.json",
   "market_date": "2026-11-16",
   "opentimestamp_target_url": "https://github.com/wkapai/wkap-ledger/blob/main/timestamps/radar-88.json",
-  "ots_proof_url": "",
-  "ots_status": "not_started"
+  "ots_proof_url": "https://github.com/wkapai/wkap-ledger/blob/main/timestamps/radar-88.json.ots",
+  "ots_status": "stamped"
 }
